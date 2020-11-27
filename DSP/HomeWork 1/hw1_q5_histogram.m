@@ -1,0 +1,1 @@
+histogram(x, 21);
