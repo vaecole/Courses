@@ -1,0 +1,33 @@
+\title{AlgorithmTemplate}
+\documentclass[12pt]{article}
+\usepackage{fullpage}
+\usepackage{times}
+\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage[ruled,vlined]{algorithm2e}
+\include{pythonlisting}
+\begin{document} 
+\begin{algorithm}[H]
+\SetAlgoLined
+  a = 1;  // mismatch penalty \\
+  b = 2;  // gap penalty \\
+  m = $\left|X\right|$, n = $\left|Y\right|$\;
+  p = $0^{m\times n}$\;
+  \For{i = 0 to m-1}{
+  \For{j = 0 to n-1}{
+    cpa = x[i]==y[j]?0:a\;
+    \eIf{i$\times$j = 0}{ 
+      // for edge nodes \\
+      pa = cpa + b*max(i,j)\;
+      pn = b+ i$>$j?p[i-1,j]:p[i,j-1]\;
+    }{
+      pa = cpa + p[i-1,j-1]\;
+      pn = b + min(p[i-1,j],p[i,j-1])\;
+    }
+    p[i,j] = min(pa,pn)
+  }
+  }
+return p[m-1,n-1]\;
+ \caption{MinSeqAlign(X, Y)}
+\end{algorithm}
+
+\end{document}

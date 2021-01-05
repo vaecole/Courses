@@ -1,0 +1,26 @@
+\title{AlgorithmTemplate}
+\documentclass[12pt]{article}
+\usepackage{fullpage}
+\usepackage{times}
+\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage[ruled,vlined]{algorithm2e}
+\include{pythonlisting}
+\begin{document} 
+\begin{algorithm}[H]
+\SetAlgoLined
+ m = $\left|A\right|$, n = $\left|B\right|$\;
+ $i_{b}$ = -1\;
+ \For{i=0 to n-1}{
+  \For{j=$i_{b}$+1 to m-1}{
+    \If{$a_{j}=b_{i}$}{
+	$i_{b}=j$\;
+	break\;
+    }
+  }
+	return false\;
+ }
+return true\;
+ \caption{SubSeq(A, B)}
+\end{algorithm}
+
+\end{document}

@@ -1,0 +1,30 @@
+\title{AlgorithmTemplate}
+\documentclass[12pt]{article}
+\usepackage{fullpage}
+\usepackage{times}
+\usepackage{fancyhdr,graphicx,amsmath,amssymb}
+\usepackage[ruled,vlined]{algorithm2e}
+\include{pythonlisting}
+\begin{document} 
+\begin{algorithm}[H]
+\SetAlgoLined
+ m = $\left|B\right|$, n = $\left|A\right|$\;
+ c = $0^{m\times n}$\;
+ \For{i=0 to m-1}{
+  \For{j=0 to n-1}{
+    \eIf{$a_{i}=b_{j}$}{
+      \eIf{i$\times$j=0}{
+        c[i,j]=1;  // for edge nodes, there is no c[i-1, j-1], means 0+1 \
+      }{
+        c[i,j]=c[i-1,j-1]+1\;
+      }
+    }{
+      c[i,j]=max(c[i-1,j], c[i,j-1])\;
+    }
+  }
+ }
+return c[m-1,n-1]\;
+ \caption{LongestSubSeqs(A, B)}
+\end{algorithm}
+
+\end{document}

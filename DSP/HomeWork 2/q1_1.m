@@ -1,0 +1,5 @@
+figure(2)
+subplot(211)
+spectrum_plot(80, 500, 'N=500')
+subplot(212)
+spectrum_plot(80, 2000, 'N=2000')
