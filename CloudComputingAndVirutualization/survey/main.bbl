@@ -1,0 +1,256 @@
+\begin{thebibliography}{10}
+
+\bibitem{Adadi_Berrada_2018}
+Amina Adadi and Mohammed Berrada.
+\newblock Peeking inside the black-box: A survey on explainable artificial
+  intelligence (xai).
+\newblock {\em IEEE Access}, 6:52138–52160, 2018.
+
+\bibitem{Biswas_Rajan_2020}
+Sumon Biswas and Hridesh Rajan.
+\newblock Do the machine learning models on a crowd sourced platform exhibit
+  bias? an empirical study on model fairness.
+\newblock {\em Proceedings of the 28th ACM Joint Meeting on European Software
+  Engineering Conference and Symposium on the Foundations of Software
+  Engineering}, page 642–653, Nov 2020.
+\newblock arXiv: 2005.12379.
+
+\bibitem{Bonawitz_Ivanov_Kreuter_Marcedone_McMahan_Patel_Ramage_Segal_Seth_2017}
+Keith Bonawitz, Vladimir Ivanov, Ben Kreuter, Antonio Marcedone, H.~Brendan
+  McMahan, Sarvar Patel, Daniel Ramage, Aaron Segal, and Karn Seth.
+\newblock Practical secure aggregation for privacy-preserving machine learning.
+\newblock In {\em Proceedings of the 2017 ACM SIGSAC Conference on Computer and
+  Communications Security}, CCS ’17, page~10. Association for Computing
+  Machinery, Oct 2017.
+
+\bibitem{chen_editorial_2013}
+Yen-Kuang Chen, An-Yeu Wu, Magdy~A. Bayoumi, and Farinaz Koushanfar.
+\newblock Editorial {Low}-{Power}, {Intelligent}, and {Secure} {Solutions} for
+  {Realization} of {Internet} of {Things}.
+\newblock {\em IEEE Journal on Emerging and Selected Topics in Circuits and
+  Systems}, 3(1):1, March 2013.
+
+\bibitem{Courbariaux_Hubara_Soudry_El-Yaniv_Bengio_2016}
+Matthieu Courbariaux, Itay Hubara, Daniel Soudry, Ran El-Yaniv, and Yoshua
+  Bengio.
+\newblock Binarized neural networks: Training deep neural networks with weights
+  and activations constrained to +1 or -1.
+\newblock {\em arXiv:1602.02830 [cs]}, Mar 2016.
+\newblock arXiv: 1602.02830.
+
+\bibitem{Ditzler_Roveri_Alippi_Polikar_2015}
+Gregory Ditzler, Manuel Roveri, Cesare Alippi, and Robi Polikar.
+\newblock Learning in nonstationary environments: A survey.
+\newblock {\em IEEE Computational Intelligence Magazine}, 10(4):12–25, Nov
+  2015.
+
+\bibitem{Friedler_Scheidegger_Venkatasubramanian_Choudhary_Hamilton_Roth_2019}
+Sorelle~A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian, Sonam
+  Choudhary, Evan~P. Hamilton, and Derek Roth.
+\newblock A comparative study of fairness-enhancing interventions in machine
+  learning.
+\newblock In {\em Proceedings of the Conference on Fairness, Accountability,
+  and Transparency}, page 329–338. ACM, Jan 2019.
+
+\bibitem{Geyer_Klein_Nabi_2018}
+Robin~C. Geyer, Tassilo Klein, and Moin Nabi.
+\newblock Differentially private federated learning: A client level
+  perspective.
+\newblock {\em arXiv:1712.07557 [cs, stat]}, page~10, Mar 2018.
+\newblock arXiv: 1712.07557.
+
+\bibitem{Hadidi_Cao_Ryoo_Kim_2019}
+Ramyad Hadidi, Jiashen Cao, Michael~S. Ryoo, and Hyesoon Kim.
+\newblock Robustly executing dnns in iot systems using coded distributed
+  computing.
+\newblock In {\em Proceedings of the 56th Annual Design Automation Conference
+  2019}, page 1–2. ACM, Jun 2019.
+
+\bibitem{Hadidi_8411096}
+Ramyad Hadidi, Jiashen Cao, Matthew Woodward, Michael~S. Ryoo, and Hyesoon Kim.
+\newblock Distributed perception by collaborative robots.
+\newblock {\em IEEE Robotics and Automation Letters}, 3(4):3709--3716, Oct
+  2018.
+
+\bibitem{Hannun_Case_Casper_Catanzaro_Diamos_Elsen_Prenger_Satheesh_Sengupta_Coates_et}
+Awni Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich
+  Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, and
+  et~al.
+\newblock Deep speech: Scaling up end-to-end speech recognition.
+\newblock {\em arXiv:1412.5567 [cs]}, page~10, Dec 2014.
+\newblock arXiv: 1412.5567.
+
+\bibitem{Huai_Ding_Wang_Geng_Zhang_2019}
+Zhibo Huai, Bo~Ding, Huaimin Wang, Mingyang Geng, and Lei Zhang.
+\newblock Towards deep learning on resource-constrained robots: A crowdsourcing
+  approach with model partition.
+\newblock In {\em 2019 IEEE SmartWorld, Ubiquitous Intelligence \& Computing,
+  Advanced \& Trusted Computing, Scalable Computing \& Communications, Cloud \&
+  Big Data Computing, Internet of People and Smart City Innovation
+  (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)}, page 989–994. IEEE, Aug 2019.
+
+\bibitem{Kim_Moon_2018}
+Jae-Yun Kim and Soo-Mook Moon.
+\newblock Blockchain-based edge computing for deep neural network applications.
+\newblock In {\em Proceedings of the Workshop on INTelligent Embedded Systems
+  Architectures and Applications}, INTESA ’18, page~10. Association for
+  Computing Machinery, Oct 2018.
+
+\bibitem{Li_Liu_Liu_Sun_You_Yang_Luan_Gan_Yang_Qian_2021}
+Mingzhen Li, Yi~Liu, Xiaoyan Liu, Qingxiao Sun, Xin You, Hailong Yang, Zhongzhi
+  Luan, Lin Gan, Guangwen Yang, and Depei Qian.
+\newblock The deep learning compiler: A comprehensive survey.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  32(3):708–727, Mar 2021.
+\newblock arXiv: 2002.03794.
+
+\bibitem{Li_Sahu_Talwalkar_Smith_2020}
+Tian Li, Anit~Kumar Sahu, Ameet Talwalkar, and Virginia Smith.
+\newblock Federated learning: Challenges, methods, and future directions.
+\newblock {\em IEEE Signal Processing Magazine}, 37(3):9, May 2020.
+\newblock arXiv: 1908.07873.
+
+\bibitem{Lim_Luong_Hoang_Jiao_Liang_Yang_Niyato_Miao_2020}
+Wei Yang~Bryan Lim, Nguyen~Cong Luong, Dinh~Thai Hoang, Yutao Jiao, Ying-Chang
+  Liang, Qiang Yang, Dusit Niyato, and Chunyan Miao.
+\newblock Federated learning in mobile edge networks: A comprehensive survey.
+\newblock {\em arXiv:1909.11875 [cs, eess]}, pages 4,9, Feb 2020.
+\newblock arXiv: 1909.11875.
+
+\bibitem{Lin_Han_Mao_Wang_Dally_2020}
+Yujun Lin, Song Han, Huizi Mao, Yu~Wang, and William~J. Dally.
+\newblock Deep gradient compression: Reducing the communication bandwidth for
+  distributed training.
+\newblock {\em arXiv:1712.01887 [cs, stat]}, pages 7,10,22, Jun 2020.
+\newblock arXiv: 1712.01887.
+
+\bibitem{Liu_Zhang_Song_Letaief_2019}
+Lumin Liu, Jun Zhang, S.~H. Song, and Khaled~B. Letaief.
+\newblock Client-edge-cloud hierarchical federated learning.
+\newblock pages 7,10, May 2019.
+
+\bibitem{mahdavinejad_machine_2018}
+Mohammad~Saeid Mahdavinejad, Mohammadreza Rezvan, Mohammadamin Barekatain,
+  Peyman Adibi, Payam Barnaghi, and Amit~P. Sheth.
+\newblock Machine learning for internet of things data analysis: a survey.
+\newblock {\em Digital Communications and Networks}, 4(3):161--175, August
+  2018.
+
+\bibitem{Mao_Chen_Nixon_Krieger_Chen_2017}
+Jiachen Mao, Xiang Chen, Kent~W. Nixon, Christopher Krieger, and Yiran Chen.
+\newblock Modnn: Local distributed mobile computing system for deep neural
+  network.
+\newblock In {\em Design, Automation \& Test in Europe Conference \& Exhibition
+  (DATE), 2017}, page 1396–1401. IEEE, Mar 2017.
+
+\bibitem{Mao_Yi_Li_Feng_Xu_Zhong_2018}
+Yunlong Mao, Shanhe Yi, Qun Li, Jinghao Feng, Fengyuan Xu, and Sheng Zhong.
+\newblock Learning from differentially private neural activations with edge
+  computing.
+\newblock In {\em 2018 IEEE/ACM Symposium on Edge Computing (SEC)}, page~10,
+  Oct 2018.
+
+\bibitem{McMahan_Moore_Ramage_Hampson_Arcas_2017}
+H.~Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise
+  Agüera~y Arcas.
+\newblock Communication-efficient learning of deep networks from decentralized
+  data.
+\newblock {\em arXiv:1602.05629 [cs]}, page~9, Feb 2017.
+\newblock arXiv: 1602.05629.
+
+\bibitem{Ngiam_Khosla_Kim_Nam_Lee_Ng_2011}
+Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, and Andrew~Y.
+  Ng.
+\newblock Multimodal deep learning.
+\newblock In {\em Proceedings of the 28th International Conference on
+  International Conference on Machine Learning}, ICML’11, page 689–696.
+  Omnipress, Jun 2011.
+
+\bibitem{Nishio_Yonetani_2018}
+Takayuki Nishio and Ryo Yonetani.
+\newblock Client selection for federated learning with heterogeneous resources
+  in mobile edge.
+\newblock {\em arXiv:1804.08333 [cs]}, pages 18,20, Oct 2018.
+\newblock arXiv: 1804.08333.
+
+\bibitem{Nweke_Teh_Al-garadi_Alo_2018}
+Henry~Friday Nweke, Ying~Wah Teh, Mohammed~Ali Al-garadi, and Uzoma~Rita Alo.
+\newblock Deep learning algorithms for human activity recognition using mobile
+  and wearable sensor networks: State of the art and research challenges.
+\newblock {\em Expert Systems with Applications}, 105:233–261, Sep 2018.
+
+\bibitem{Ogden_Guo_2018}
+Samuel~S. Ogden and Tian Guo.
+\newblock {MODI}: Mobile deep inference made efficient by edge computing.
+\newblock 2018.
+
+\bibitem{Peteiro-Barral_Guijarro-Berdiñas_2013}
+Diego Peteiro-Barral and Bertha Guijarro-Berdiñas.
+\newblock A survey of methods for distributed machine learning.
+\newblock {\em Progress in Artificial Intelligence}, 2(1):1–11, Mar 2013.
+
+\bibitem{Ribeiro_Singh_Guestrin_2016}
+Marco~Tulio Ribeiro, Sameer Singh, and Carlos Guestrin.
+\newblock “why should i trust you?”: Explaining the predictions of any
+  classifier.
+\newblock {\em arXiv:1602.04938 [cs, stat]}, Aug 2016.
+\newblock arXiv: 1602.04938.
+
+\bibitem{Rotem_Fix_Abdulrasool_Catron_Deng_Dzhabarov_Gibson_Hegeman_Lele_Levenstein_et}
+Nadav Rotem, Jordan Fix, Saleem Abdulrasool, Garret Catron, Summer Deng, Roman
+  Dzhabarov, Nick Gibson, James Hegeman, Meghan Lele, Roman Levenstein, and
+  et~al.
+\newblock Glow: Graph lowering compiler techniques for neural networks.
+\newblock {\em arXiv:1805.00907 [cs]}, Apr 2019.
+\newblock arXiv: 1805.00907.
+
+\bibitem{Simonite}
+Tom Simonite.
+\newblock The best algorithms still struggle to recognize black faces.
+\newblock {\em Wired}.
+
+\bibitem{Stahl_Zhao_Mueller-Gritschneder_Gerstlauer_Schlichtmann_2019}
+Rafael Stahl, Zhuoran Zhao, Daniel Mueller-Gritschneder, Andreas Gerstlauer,
+  and Ulf Schlichtmann.
+\newblock Fully distributed deep learning inference on resource-constrained
+  edge devices.
+\newblock In Dionisios~N. Pnevmatikatos, Maxime Pelcat, and Matthias Jung,
+  editors, {\em Embedded Computer Systems: Architectures, Modeling, and
+  Simulation}, Lecture Notes in Computer Science, page 77–90. Springer
+  International Publishing, 2019.
+
+\bibitem{Tao_Li_2018}
+Zeyi Tao and Qun Li.
+\newblock esgd: Communication efficient distributed deep learning on the edge.
+\newblock pages 7,10, 2018.
+
+\bibitem{Teerapittayanon_McDanel_Kung_2017}
+Surat Teerapittayanon, Bradley McDanel, and H.T. Kung.
+\newblock Distributed deep neural networks over the cloud, the edge and end
+  devices.
+\newblock In {\em 2017 IEEE 37th International Conference on Distributed
+  Computing Systems (ICDCS)}, page 328–339, Jun 2017.
+
+\bibitem{WANG_WANG_LI_2019}
+Luping WANG, Wei WANG, and Bo~LI.
+\newblock Cmfl: Mitigating communication overhead for federated learning.
+\newblock In {\em 2019 IEEE 39th International Conference on Distributed
+  Computing Systems (ICDCS)}, pages 7,10, Jul 2019.
+
+\bibitem{wang_when_2018}
+Shiqiang Wang, Tiffany Tuor, Theodoros Salonidis, Kin~K. Leung, Christian
+  Makaya, Ting He, and Kevin Chan.
+\newblock When {Edge} {Meets} {Learning}: {Adaptive} {Control} for
+  {Resource}-{Constrained} {Distributed} {Machine} {Learning}.
+\newblock In {\em {IEEE} {INFOCOM} 2018 - {IEEE} {Conference} on {Computer}
+  {Communications}}, pages 7,8, Honolulu, HI, April 2018. IEEE.
+
+\bibitem{Wang_Han_Leung_Niyato_Yan_Chen_2020}
+Xiaofei Wang, Yiwen Han, Victor C.~M. Leung, Dusit Niyato, Xueqiang Yan, and
+  Xu~Chen.
+\newblock Convergence of edge computing and deep learning: A comprehensive
+  survey.
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 22(2):869–904,
+  2020.
+
+\end{thebibliography}
